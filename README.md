@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="left">Versão TyperScript + React</h4>
+
+###
+
 <h2 align="left">💻Tecnologias Utilizadas</h2>
 
 ###
@@ -18,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
 
 ###
@@ -34,6 +42,6 @@
 
 ###
 
-<p align="left">➡️npm install<br>➡️npm start</p>
+<p align="left">1️⃣Abrir um terminal na basta: "backend"<br><br>Rode o comando:<br>➡️npm start<br><br>2️⃣Abri outro terminal na pasta: "frontend"<br><br>Rode o comando:<br>➡️npm run dev</p>
 
 ###
